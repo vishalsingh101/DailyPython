@@ -1,2 +1,4 @@
 # DailyPython
-Daily Python practice
+##Daily Python practice
+Practicing python programs Daily.
+  
